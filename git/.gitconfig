@@ -1,0 +1,11 @@
+[user]
+	name = baersc
+	email = baerbo@gmail.com
+[credential]
+	helper = cache
+[color]
+	ui = true
+	status = auto
+	branch = auto
+[core]
+	editor = nvim
