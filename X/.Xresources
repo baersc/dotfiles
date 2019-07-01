@@ -1,3 +1,5 @@
+#include ".Xcolors/gruvbox-light.xresources"
+
 URxvt*internalBorder: 25
 URxvt*scrollBar: false
 
@@ -5,8 +7,8 @@ URxvt*scrollBar: false
 ! FONTS
 !URxvt*font: xft:gohufont:size=10
 !URxvt*font: xft:Anonymous Pro:size=10
-URxvt*font: xft:cherry:size=11
-!*font         : -misc-fixed-medium-r-semicondensed-*-13-*-*-*-*-*-iso10646-1
+!URxvt*font: xft:cherry:size=11
+*font         : -misc-fixed-medium-r-semicondensed-*-13-*-*-*-*-*-iso10646-1
 
 Xft.autohint:	0
 Xft.lcdfilter:	lcddefault
@@ -18,41 +20,41 @@ xft.rgba:	rgb
 
 
 ! special
-*.foreground:   #c0b18b
-*.background:   #1f1f1f
-*.cursorColor:  #c0b18b
+!*.foreground:   #c0b18b
+!*.background:   #1f1f1f
+!*.cursorColor:  #c0b18b
 
 ! black
-*.color0:       #4a3637
-*.color8:       #402e2e
+!*.color0:       #4a3637
+!*.color8:       #402e2e
 
 ! red
-*.color1:       #d17b49
-*.color9:       #ac5d2f
+!*.color1:       #d17b49
+!*.color9:       #ac5d2f
 
 ! green
-*.color2:       #7b8748
-*.color10:      #647035
+!*.color2:       #7b8748
+!*.color10:      #647035
 
 ! yellow
-*.color3:       #af865a
-*.color11:      #8f6840
+!*.color3:       #af865a
+!*.color11:      #8f6840
 
 ! blue
-*.color4:       #535c5c
-*.color12:      #444b4b
+!*.color4:       #535c5c
+!*.color12:      #444b4b
 
 ! magenta
-*.color5:       #775759
-*.color13:      #614445
+!*.color5:       #775759
+!*.color13:      #614445
 
 ! cyan
-*.color6:       #6d715e
-*.color14:      #585c49
+!*.color6:       #6d715e
+!*.color14:      #585c49
 
 ! white
-*.color7:       #c0b18b
-*.color15:      #978965
+!*.color7:       #c0b18b
+!*.color15:      #978965
 
 ! xidle
 ! drag pointer to lower left of screen to lock
